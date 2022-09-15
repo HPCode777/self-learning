@@ -1,0 +1,27 @@
+- Learn Fundamentals
+  - Learn from udemy course material.
+- Geeting Deeper
+  - Memory Management
+  - Collection Framework
+  - Serialization
+  - Network & Socket
+  - generic
+  - Stream
+  - How JVM Work
+  - Garbage Collection
+  - Threads
+- Build Tools
+  - Maven
+  - Ant
+- Web Framework
+  - Spring & Spring Boot
+- ORM
+  - Hibernate
+- JDBC
+  - MySQL
+  - No SQL (Casandra)
+- Logging
+  - Log4J2
+- Testing
+  - JUnit
+  - Selenium
