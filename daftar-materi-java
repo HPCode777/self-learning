@@ -21,4 +21,7 @@
   - MySQL
   - No SQL (Casandra)
 - Logging
+  - Log4J2
 - Testing
+  - JUnit
+  - Selenium
